@@ -1,7 +1,7 @@
 # 🐾 SalvaPet RS: Interface para Adoção e Reencontro de Animais Resgatados
 
 <p align="center">  
-   <img src="assets/banner.png" alt="Banner do projeto"/> 
+   <img src="banner.png" alt="Banner do projeto"/> 
 </p>
 
 
