@@ -15,7 +15,6 @@ A interface foi pensada para ser **reutilizável e personalizável**, permitindo
 * **Apresentar** os animais em um layout de cards organizado.
 * **Fornecer** um layout reutilizável e personalizável por diferentes regiões afetadas.
 
----
 
 ## 💻 Tecnologias de Desenvolvimento
 
@@ -24,7 +23,6 @@ Este projeto de interface foi desenvolvido usando:
 * **Figma** (Para prototipagem e design)
 * **Canva**
 
----
 
 ## 🎨 Protótipo e Design
 
