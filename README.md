@@ -26,7 +26,7 @@ Este projeto de interface foi desenvolvido usando:
 
 ---
 
-## 🎨 Protótipo e Design (Figma)
+## 🎨 Protótipo e Design
 
 O protótipo da interface foi criado no Figma, para ter acesso ao protótipo do projeto clique [aqui](https://www.figma.com/proto/OQzlcOmfG3XT2b4NnfNNl3/Projeto-de-Interface-do-SalvaPet-RS?node-id=0-1&t=mD5bFMJjPKMHRzmC-1).
 
