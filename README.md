@@ -29,3 +29,9 @@ Este projeto de interface foi desenvolvido usando:
 O protótipo da interface foi criado no Figma, para ter acesso ao protótipo do projeto clique [aqui](https://www.figma.com/proto/OQzlcOmfG3XT2b4NnfNNl3/Projeto-de-Interface-do-SalvaPet-RS?node-id=0-1&t=mD5bFMJjPKMHRzmC-1).
 
 Você pode visualizar e interagir com o design completo [aqui](https://www.figma.com/community/file/1553526653365981327)
+
+Caso prefira, também disponibilizamos a navegação do Protótipo no Youtube, clique [aqui](https://youtu.be/PLXUkj1LAic?si=xWAjJccm-xt7aAXM)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./license.txt) para mais detalhes.
