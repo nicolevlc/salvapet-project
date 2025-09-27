@@ -5,7 +5,7 @@
 </p>
 
 
-O "SalvaPet" é uma **interface visual** desenvolvida para incentivar a **adoção responsável** e facilitar o **reencontro** de animais resgatados, inicialmente focada nas comunidades afetadas pelas enchentes no Rio Grande do Sul.
+O "SalvaPet" é uma **interface** projetada para incentivar a **adoção responsável** e facilitar o **reencontro** de animais resgatados e/ou perdidos, inicialmente focada nas comunidades afetadas pelas enchentes no Rio Grande do Sul.
 
 A interface foi pensada para ser **reutilizável e personalizável**, permitindo que qualquer pessoa, grupo ou ONG adapte o layout visual para divulgar animais em sua própria região.
 
@@ -16,12 +16,13 @@ A interface foi pensada para ser **reutilizável e personalizável**, permitindo
 * **Fornecer** um layout reutilizável e personalizável por diferentes regiões afetadas.
 
 
-## 💻 Tecnologias de Desenvolvimento
+## 💻 Tecnologias e Ferramentas
 
 Este projeto de interface foi desenvolvido usando:
 
 * **Figma** (Para prototipagem e design)
 * **Canva**
+* ** Draw.io**
 
 
 ## 🎨 Protótipo e Design
