@@ -22,7 +22,7 @@ Este projeto de interface foi desenvolvido usando:
 
 * **Figma** (Para prototipagem e design)
 * **Canva**
-* ** Draw.io**
+* **Draw.io**
 
 
 ## 🎨 Protótipo e Design
